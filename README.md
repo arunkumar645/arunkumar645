@@ -115,7 +115,7 @@ A desktop-based **Airline Reservation System** developed using **Java Swing** an
 
 ### 🔗 GitHub Repository
 
-> https://github.com/arunkumar645/AeroPass
+> https://github.com/arunkumar645/Aeropass-Air-line-Reservation-System
 ## 🌾 Grain Merchant System
 
 A modern **web-based agricultural marketplace** developed to connect farmers, merchants, and buyers through a single digital platform. The application enables users to publish products, browse crop listings, manage inventories, and securely interact using responsive dashboards. The project aims to simplify agricultural trading with an intuitive user interface and efficient workflow.
