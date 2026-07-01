@@ -1,298 +1,228 @@
-<h1 align="center">Hi 👋, I'm Arun Kumar Terala</h1>
+# Hi 👋, I'm Arun Kumar Terala
 
-<h3 align="center">🚀 Java Developer | Full Stack Developer | Problem Solver</h3>
-
+```{=html}
+<h3 align="center">
+```
+🚀 Java Developer \| Full Stack Developer \| Problem Solver
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Developer;React+Developer;Spring+Boot+Learner;DSA+Enthusiast;Open+Source+Learner;Always+Learning+New+Things+🚀" />
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Developer;Full+Stack+Developer;React+Learner;Spring+Boot+Learner;Data+Structures+%26+Algorithms;Always+Learning+New+Things+🚀" />`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=arunkumar645&style=for-the-badge&color=0e75b6" />`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+-   🎓 **B.Tech -- Computer Science & Engineering** \| Malla Reddy
+    University
+-   💻 Passionate about Java Backend Development, Full Stack Development
+    and DSA.
+-   🚀 Building practical software projects with clean and maintainable
+    code.
+-   🌱 Currently learning **Spring Boot, React.js and System Design**.
+-   ⚡ Interested in scalable applications and real-world software
+    engineering.
 
-🏫 Malla Reddy University
-
-💻 Passionate Java & Full Stack Developer
-
-🌱 Currently Learning
-
-- Advanced Java
-- React.js
-- Spring Boot
-- Data Structures & Algorithms
-
-🎯 Goal
-
-✔ Crack Product Based Companies
-
-✔ Build Amazing Software
-
-✔ Become a Full Stack Java Developer
-
-✔ Contribute to Open Source
-
----
+------------------------------------------------------------------------
 
 # 🚀 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
+```
+`<img src="https://skillicons.dev/icons?i=java,js,html,css,python"/>`{=html}
+```{=html}
 </p>
+```
+### 🎨 Frontend
 
----
-
-## 🎨 Frontend
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
+```
+`<img src="https://skillicons.dev/icons?i=react,bootstrap"/>`{=html}
+```{=html}
 </p>
+```
+### ⚙ Backend
 
----
-
-## ⚙ Backend
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express"/>`{=html}
+```{=html}
 </p>
+```
+### 🗄 Database
 
----
-
-## 🛢 Database
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
+```
+`<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>`{=html}
+```{=html}
 </p>
+```
+### 🛠 Tools
 
----
-
-## 🛠 Tools
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
-## ✈ AeroPass
+## ✈️ AeroPass --- Airline Reservation System
 
-Java Swing Airline Reservation System
+Desktop application for airline ticket booking with Java Swing.
 
-✔ Flight Booking
+**Features** - User Login - Flight Search - Booking - Payment - Ticket
+Generation - Feedback
 
-✔ Login
+**Tech Stack:** Java • Swing • JDBC • MySQL
 
-✔ Payment
+**GitHub:** https://github.com/arunkumar645
 
-✔ Ticket Generation
-
-✔ MySQL Database
-
----
+------------------------------------------------------------------------
 
 ## 🌾 Grain Merchant System
 
-React Application
+A responsive marketplace connecting farmers and buyers.
 
-✔ Farmer Dashboard
+**Features** - Farmer Dashboard - Buyer Dashboard - Authentication -
+Product Listings - Responsive UI
 
-✔ Buyer Dashboard
+**Tech Stack:** React • JavaScript • Bootstrap • CSS
 
-✔ Authentication
+**GitHub:** https://github.com/arunkumar645
 
-✔ Responsive Design
-
----
+------------------------------------------------------------------------
 
 ## 🤖 Platform AI
 
-AI Tools Directory
+AI tools directory with categorized resources and search.
 
-✔ AI Search
+**Features** - AI Categories - Search - Responsive Design - Premium
+Tools Section
 
-✔ Categories
+**Tech Stack:** HTML • CSS • JavaScript • Bootstrap
 
-✔ Premium Tools
+**GitHub:** https://github.com/arunkumar645
 
-✔ Responsive UI
-
----
+------------------------------------------------------------------------
 
 ## 🎬 CineBook
 
-Movie Ticket Booking
+Movie ticket booking desktop application.
 
-✔ Seat Selection
+**Features** - Seat Selection - Booking - Payment - Ticket Generation
 
-✔ Payment
+**Tech Stack:** Java • Swing • MySQL
 
-✔ Ticket Booking
+**GitHub:** https://github.com/arunkumar645
 
----
+------------------------------------------------------------------------
 
 ## 💻 Java DSA
 
-Contains
+Daily Java DSA practice repository.
 
-✔ Arrays
+**Topics** - Arrays - Strings - Searching - Sorting - Linked List -
+Stack - Queue - Trees - Graphs
 
-✔ Strings
+**GitHub:** https://github.com/arunkumar645
 
-✔ Searching
-
-✔ Sorting
-
-✔ Linked List
-
-✔ Stack
-
-✔ Queue
-
-✔ Trees
-
-✔ Graph
-
----
+------------------------------------------------------------------------
 
 # 📊 GitHub Analytics
 
+```{=html}
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arunkumar645&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar645&layout=compact&theme=tokyonight"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=arunkumar645&show_icons=true&theme=tokyonight"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar645&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🔥 GitHub Streak
 
+```{=html}
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=arunkumar645&theme=tokyonight"/>
-
+```
+`<img src="https://streak-stats.demolab.com?user=arunkumar645&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkumar645&theme=tokyo-night"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkumar645&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🏆 GitHub Trophy
+# 🤝 Connect With Me
 
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arunkumar645&theme=onedark&row=1&column=7"/>
-
+```
+`<a href="https://www.linkedin.com/in/arunkumar-terala-1012a12aa/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">`{=html}`</a>`{=html}
+`<a href="mailto:arunkumarterala@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">`{=html}`</a>`{=html}
+`<a href="https://github.com/arunkumar645">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">`{=html}`</a>`{=html}
+```{=html}
 </p>
-
----
-
-# 🎯 2026 Goals
-
-✅ Crack Campus Placements
-
-✅ Solve 500+ DSA Problems
-
-✅ Master Spring Boot
-
-✅ Build 10+ Projects
-
-✅ Open Source Contributor
-
----
-
-# 🌐 Connect With Me
-
+```
+```{=html}
 <p align="center">
+```
+📧 **arunkumarterala@gmail.com**
 
-<a href="https://linkedin.com/">
+💼 **LinkedIn:** https://www.linkedin.com/in/arunkumar-terala-1012a12aa/
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+⭐ **Open to Software Development Internships, Java Developer Roles and
+Open Source Collaboration**
 
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://github.com/arunkumar645">
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-
-</a>
-
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 👀 Profile Views
-
+```{=html}
 <p align="center">
+```
+`<i>`{=html}"First, solve the problem. Then, write the
+code."`</i>`{=html}
 
-<img src="https://komarev.com/ghpvc/?username=arunkumar645&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
+⭐ If you like my repositories, consider giving them a star!
+```{=html}
 </p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-### ☕ "First, solve the problem. Then, write the code."
-
-</p>
-
----
-
-<p align="center">
-
-⭐ If you like my repositories, don't forget to star them!
-
-</p>
+```
