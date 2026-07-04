@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Java Developer | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Developer;React+Developer;Open+Source+Learner;Always+Learning+New+Things;Open For internships and Jobs🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;⚛️+React+Developer;🌱+Spring+Boot+Learner;💻+DSA+Enthusiast;🚀+Building+Real-World+Applications;🤝+Open+to+Internships+%26+Software+Engineering+Opportunities" />
 </p>
 
 ---
